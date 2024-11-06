@@ -1,4 +1,4 @@
-## Hi there ![blobwave](./assets/blob_wave3)
+## Hi there ![blobwave](./assets/blob_wave3.jpg)
 
 I'm Hannah, a former ICU nurse turned software engineer from Sydney, Australia. 
 
