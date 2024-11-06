@@ -1,6 +1,6 @@
 ## Hi there ![blobwave](./assets/blob_wave_5.gif)
 
-I'm Hannah, a former ICU nurse turned software engineer from Sydney, Australia. 
+I'm Hannah, a former ICU nurse turned software engineer.
 
 I'm passionate about building reliable, user-focused systems solutions and following scientific developments, particularly in healthcare tech.
 
