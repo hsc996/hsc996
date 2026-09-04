@@ -8,4 +8,4 @@ Currently exploring opportunities to create meaningful impact through code.
 
 Let's connect!
 
-📍 Sydney, NSW
+📍 Amsterdam, NL
